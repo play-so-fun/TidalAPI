@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lucaslg26/TidalAPI.git"
+    "url": "git+https://github.com/willardting/TidalAPI.git"
   },
   "keywords": [
     "node",
@@ -20,9 +20,9 @@
   "author": "Lucas Vasconcelos (lucaslg26@gmail.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lucaslg26/TidalAPI/issues"
+    "url": "https://github.com/willardting/TidalAPI/issues"
   },
-  "homepage": "https://github.com/lucaslg26/TidalAPI#readme",
+  "homepage": "https://github.com/willardting/TidalAPI#readme",
   "dependencies": {
     "request": "^2.69.0"
   },
